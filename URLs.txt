@@ -1,0 +1,31 @@
+#protocol server port applicationPath
+#-- ftp scheme for File Transfer Protocol services
+ftp://ftp.is.co.za/rfc/rfc1808.txt
+#-- gopher scheme for Gopher and Gopher+ Protocol services
+gopher://spinaltap.micro.umn.edu/00/Weather/California/Los%20Angeles
+#-- mailto scheme for electronic mail addresses
+mailto:mduerst@ifi.unizh.ch
+#-- news scheme for USENET news groups and articles
+news:comp.infosystems.www.servers.unix
+#-- telnet scheme for interactive services via the TELNET Protocol
+telnet://melvyl.ucop.edu/
+#-- http scheme for Hypertext Transfer Protocol services
+http://www.math.uio.no/faq/compression-faq/part1.html
+https://www.math.uio.no/faq/compression-faq/part1.html
+http://www.ics.uci.edu:9090/pub/net/path/#Related
+http://www.example.com:8800
+http://www.example.com/a/b/c/d/e/f/g/h/i.html
+http://www.test.com?pageid=123&testid=1524
+http://www.test.com/do.html#ABCD
+http://perldoc.perl.org/functions/split.html
+http://www.magickeys.com/books/
+http://childhoodreading.com/
+http://www.eastoftheweb.com/short-stories/childrenindex.html
+http://us.a1.yimg.com/us.yimg.com/i/ww/m5v9.gif
+http://hooboy.no-such-host.int/
+http://www.yahoo.com
+http://www.ora.com/ask_tim/graphics/asktim_header_main.gif
+http://www.guardian.co.uk/
+http://www.pixunlimited.co.uk/siteheaders/Guardian.gif
+http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath;cc=umhistmath;rgn=full%20text;idno=ABS3153.0001.001;didno=ABS3153.0001.001;view=image;seq=00000140
+http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=umhistmath;cc=umhistmath;rgn=full+text;idno=ABS3153.0001.001;didno=ABS3153.0001.001;view=image;seq=00000140;some-too-long-query-string-so-that-the-whole-url-is-longer-than-255-characters;some-too-long-query-string-so-that-the-whole-url-is-longer-than-255-characters;some-too-long-query-string-so-that-the-whole-url-is-longer-than-255-characters;some-too-long-query-string-so-that-the-whole-url-is-longer-than-255-characters
